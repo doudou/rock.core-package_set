@@ -195,6 +195,7 @@ minitest: gem
 minitest-junit: gem
 rack-test: gem
 minitest-em-sync: gem
+simplecov: gem
 
 concurrent-ruby:
     gem:
